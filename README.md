@@ -247,13 +247,14 @@ The `.env` file is excluded from GitHub using `.gitignore`.
 
 Never commit or share your API key publicly.
 
+
+
 ## 📸 Screenshots
 
-Screenshots of the Streamlit application can be added here.
+### 🏠 Home Page
 
-Example:
+![AI Travel Planner Home Page](screenshots/home.png)
 
-```text
-screenshots/
-├── home.png
-└── travel-plan.png
+### ✈️ Generated Travel Plan
+
+![Generated Travel Plan](screenshots/travel-plan.png)
